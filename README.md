@@ -1,74 +1,140 @@
-# Advocacia José Luiz Gregório
+# Biblioteca de Especialistas em IA
+## Escritório José Luiz Gregório
 
-Este é o repositório principal da **Advocacia José Luiz Gregório**, destinado à organização centralizada dos materiais institucionais, modelos, pesquisas, referências, atividades operacionais e iniciativas de comunicação do escritório.
+Versão atual: 1.0
 
-## Áreas de atuação
+---
 
-O escritório concentra sua atuação nas seguintes áreas:
+# Objetivo
 
-- **Direito Imobiliário** — assessoria em negociações, regularização, locações, incorporações, condomínios e questões relacionadas à propriedade e à posse.
-- **Sucessões** — planejamento sucessório, inventários, partilhas, testamentos e organização patrimonial familiar.
-- **Contratos** — elaboração, análise, revisão e negociação de instrumentos contratuais, com foco em segurança jurídica e prevenção de conflitos.
-- **Consultivo** — suporte preventivo e orientação jurídica para a tomada de decisões.
-- **Marketing Jurídico** — planejamento de conteúdo e posicionamento institucional em conformidade com as normas éticas aplicáveis à advocacia.
+Esta biblioteca reúne especialistas de Inteligência Artificial desenvolvidos para apoiar as atividades do Escritório José Luiz Gregório.
 
-## Objetivos do repositório
+Os especialistas são organizados por área de atuação e por função, permitindo revisões técnicas, pesquisas jurídicas, elaboração de documentos, marketing jurídico e automações, sempre sob supervisão do advogado responsável.
 
-- Manter a documentação institucional organizada.
-- Reunir referências e materiais por área de atuação.
-- Padronizar modelos e processos internos.
-- Planejar conteúdos e ações de marketing jurídico.
-- Preservar o histórico das alterações realizadas nos materiais do escritório.
+---
 
-## Estrutura inicial
+# Estrutura da Biblioteca
 
-```text
-Advocacia/
-├── 01_Areas_de_Atuacao/
-│   ├── Direito_Imobiliario/
-│   ├── Sucessoes/
-│   ├── Contratos/
-│   └── Consultivo/
-├── 02_Modelos/
-│   ├── Contratos/
-│   ├── Peticoes_Iniciais/
-│   ├── Contestacoes/
-│   ├── Recursos/
-│   ├── Manifestacoes/
-│   ├── Notificacoes/
-│   ├── Procuracoes/
-│   └── Pareceres/
-├── 03_Jurisprudencia/
-│   ├── STF/
-│   ├── STJ/
-│   ├── TJSP/
-│   ├── CNJ/
-│   └── Cartorios/
-├── 04_Pesquisas/
-├── 05_Marketing_Juridico/
-│   ├── Instagram/
-│   ├── Facebook/
-│   ├── LinkedIn/
-│   ├── Blog/
-│   ├── Reels/
-│   └── Stories/
-├── 06_Operacao/
-├── 07_Institucional/
-├── 08_Referencias/
-├── 09_Automacoes/
-└── 10_Prompts/
-```
+## 01_REVISORES
 
-As pastas inicialmente vazias contêm arquivos `.gitkeep` para que sua estrutura seja mantida pelo Git.
+Especialistas responsáveis pela revisão técnica de documentos jurídicos.
 
-## Organização e uso
+Exemplos:
 
-Cada material deve ser armazenado na pasta correspondente à sua finalidade. Novas categorias devem seguir o padrão de nomenclatura existente, com nomes claros e profissionais.
+- Revisor Jurídico Gregório
+- Revisor de Contratos
+- Revisor de Petições
+- Revisor de Escrita Jurídica
 
-## Confidencialidade e proteção de dados
+---
 
-Este repositório não deve armazenar dados pessoais, documentos de clientes, informações processuais sigilosas, credenciais ou qualquer outro conteúdo protegido por confidencialidade profissional. Materiais reais devem ser anonimizados antes de qualquer inclusão e tratados de acordo com a legislação aplicável, especialmente a Lei Geral de Proteção de Dados Pessoais (LGPD).
+## 02_PESQUISA_JURIDICA
 
-## Uso interno
+Especialistas voltados para:
 
-O conteúdo deste repositório é destinado à organização e ao uso interno da Advocacia José Luiz Gregório. A inclusão, revisão e divulgação de materiais jurídicos ou publicitários deve observar a legislação vigente e as normas éticas da Ordem dos Advogados do Brasil.
+- jurisprudência;
+- legislação;
+- doutrina;
+- pesquisa registral.
+
+---
+
+## 03_DIREITO_IMOBILIARIO
+
+Especialistas destinados a:
+
+- contratos imobiliários;
+- locações;
+- usucapião;
+- regularização imobiliária;
+- Registro de Imóveis.
+
+---
+
+## 04_DIREITO_DAS_SUCESSOES
+
+Especialistas destinados a:
+
+- inventários;
+- testamentos;
+- planejamento sucessório;
+- partilhas;
+- petição de herança.
+
+---
+
+## 05_MARKETING_JURIDICO
+
+Especialistas para:
+
+- Instagram;
+- Facebook;
+- LinkedIn;
+- blogs;
+- landing pages;
+
+sempre observando o Estatuto da Advocacia, o Código de Ética e o Provimento 205/2021 da OAB.
+
+---
+
+## 06_AUTOMACOES
+
+Especialistas responsáveis por:
+
+- fluxos internos;
+- organização documental;
+- checklists;
+- produtividade;
+- integração com ferramentas.
+
+---
+
+# Estrutura dos Especialistas
+
+Cada especialista deverá possuir, preferencialmente, os seguintes arquivos:
+
+- README.md
+- 01_IDENTIDADE.md
+- 02_REGRAS.md
+- 03_PROMPT.md
+- 04_CHECKLISTS.md
+- 05_CASOS_DE_TESTE.md
+- 06_HISTORICO.md
+- 07_REFERENCIAS.md
+
+---
+
+# Controle de Versões
+
+As alterações serão registradas por meio do Git.
+
+Padrão de versões:
+
+- v1.0
+- v1.1
+- v2.0
+
+---
+
+# Princípios
+
+Todos os especialistas deverão atuar com:
+
+- precisão técnica;
+- fundamentação jurídica;
+- transparência;
+- imparcialidade;
+- segurança jurídica;
+- respeito às normas éticas da advocacia.
+
+---
+
+# Missão
+
+Construir um Sistema Operacional Jurídico baseado em Inteligência Artificial, capaz de aumentar a produtividade do escritório sem substituir a atuação técnica e estratégica do advogado.
+
+---
+
+Última atualização:
+
+____/____/________
