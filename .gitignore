@@ -1,0 +1,9 @@
+# Arquivos temporários do Microsoft Office
+~$
+
+# Arquivos de sistema do Windows
+Thumbs.db
+Desktop.ini
+
+# Configurações locais do VS Code
+.vscode/
