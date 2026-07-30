@@ -135,6 +135,59 @@ Construir um Sistema Operacional Jurídico baseado em Inteligência Artificial, 
 
 ---
 
+# 08_MELHORIAS
+
+## 1. Objetivo
+
+Registrar, acompanhar e priorizar melhorias na biblioteca, nos especialistas e nos documentos de apoio, garantindo evolução contínua e padronização do conteúdo.
+
+## 2. Critérios para Registro das Melhorias
+
+Cada melhoria deverá ser registrada considerando:
+
+- relevância para a operação do escritório;
+- impacto na clareza, objetividade e qualidade dos documentos;
+- alinhamento com a identidade jurídica e as regras de uso;
+- viabilidade de implementação e manutenção.
+
+## 3. Melhorias Identificadas
+
+### README.md
+
+- M001 - Revisar a estrutura geral para maior clareza e navegação.
+- M002 - Incluir referências cruzadas entre os especialistas e os diretórios.
+- M003 - Atualizar a seção de versões e última atualização de forma mais consistente.
+
+### 01_IDENTIDADE.md
+
+- M004 - Definir com maior precisão a identidade do especialista.
+- M005 - Padronizar os elementos de posicionamento e linguagem.
+
+### 02_REGRAS.md
+
+- M006 - Revisar regras de uso para reduzir ambiguidades.
+- M007 - Incluir exemplos práticos de aplicação das regras.
+
+## 4. Melhorias Implementadas
+
+- Nenhuma implementação registrada até o momento.
+
+## 5. Melhorias Pendentes
+
+- Priorização inicial das melhorias M001 a M007.
+- Definição de responsáveis por cada implementação.
+- Validação das melhorias após a aplicação.
+
+## 6. Histórico das Implementações
+
+- v1.0 - Criação da estrutura inicial de registro de melhorias.
+
+## 7. Regra Final
+
+Toda melhoria relevante deve ser registrada antes de ser implementada, para garantir rastreabilidade, consistência e controle do processo de evolução da biblioteca.
+
+---
+
 Última atualização:
 
 ____/____/________

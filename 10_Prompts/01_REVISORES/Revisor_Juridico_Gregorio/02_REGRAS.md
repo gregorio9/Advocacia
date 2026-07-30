@@ -214,4 +214,19 @@ Jamais inverter essa ordem.
 
 ---
 
+# REGRA 14
+## Histórico da Biblioteca Jurídica Gregório
+
+O Histórico da Biblioteca Jurídica Gregório constitui documento oficial de governança, controle evolutivo e preservação da memória técnica da Biblioteca, devendo refletir, de forma fiel, cronológica e rastreável, todas as alterações relevantes aprovadas em seus documentos, módulos, procedimentos e protocolos.
+
+Nenhuma alteração considerada relevante deverá ser incorporada à Biblioteca sem o respectivo registro histórico, observados os critérios de controle de versões, rastreabilidade e padronização estabelecidos nos documentos que compõem a Biblioteca Jurídica Gregório.
+
+Os registros históricos deverão preservar a integridade das informações, vedada a exclusão ou modificação de registros anteriores que comprometa a compreensão da evolução da Biblioteca, ressalvadas as hipóteses de correção de erro material, as quais também deverão ser devidamente registradas.
+
+Este documento deverá ser interpretado em conjunto com os demais instrumentos normativos da Biblioteca Jurídica Gregório, especialmente aqueles relativos à identidade institucional, regras de funcionamento, protocolo de atuação, checklists, referências técnicas e controle de versões, formando um sistema único, integrado e coerente de governança documental.
+
+Os casos omissos ou as situações não previstas neste documento serão resolvidos pelo responsável técnico da Biblioteca Jurídica Gregório, observados os princípios da legalidade, da rastreabilidade, da transparência, da integridade documental, da melhoria contínua e da preservação da coerência institucional.
+
+---
+
 Fim das Regras.
