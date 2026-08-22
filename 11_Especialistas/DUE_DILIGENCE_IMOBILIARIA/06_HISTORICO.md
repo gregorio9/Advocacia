@@ -243,6 +243,31 @@ Os registros específicos deste especialista deverão considerar:
 - O pacote passou por conferência estrutural dos nove arquivos obrigatórios.
 - A homologação definitiva permanece sujeita à validação pelo advogado responsável e à execução dos casos de teste.
 
+## Versão 1.3.1 — Validação funcional inicial — 22/08/2026
+
+- Executados os três cenários de `05_CASOS_DE_TESTE.md` com dados fictícios controlados.
+- Os três casos foram aprovados sem falha funcional impeditiva.
+- Confirmados o tratamento de lacunas documentais, a separação das informações, a classificação de riscos, a indicação de diligências e a conclusão condicionada.
+- Registradas ressalvas quanto à ausência de documentos reais, consultas a bases oficiais, critérios quantitativos e respostas de referência versionadas.
+- Homologação definitiva mantida como pendente até validação jurídica e prática pelo advogado responsável.
+
+## Versão 1.3.2 — Validação das referências nacionais — 22/08/2026
+
+- Validado o catálogo federal e nacional de `07_REFERENCIAS.md` em fontes oficiais.
+- Incluídos números, objetos e links oficiais das principais normas civis, registrais, urbanísticas, ambientais, rurais e de proteção de dados.
+- Incluídos a Lei nº 13.097/2015, a Lei nº 14.382/2022 e o Código Nacional de Normas do Foro Extrajudicial instituído pelo Provimento CNJ nº 149/2023, com ressalva de consulta às alterações posteriores.
+- Corrigido o critério de solução de aparentes conflitos normativos para considerar competência, especialidade, cronologia, território e precedentes vinculantes.
+- Registrada como pendente a validação das normas estaduais, municipais e da Corregedoria local, condicionada à identificação da unidade federativa e do município.
+
+## Versão 1.3.3 — Complementação territorial de São Paulo — 22/08/2026
+
+- Definidos o Estado e o Município de São Paulo como território principal de validação.
+- Incluídas as Normas de Serviço da Corregedoria-Geral da Justiça de São Paulo — Tomo II e o Portal do Extrajudicial do TJSP.
+- Incluídas fontes oficiais da CETESB e da Secretaria da Fazenda e Planejamento do Estado de São Paulo.
+- Incluídos o Plano Diretor Estratégico, a legislação de parcelamento, uso e ocupação do solo e o Código de Obras e Edificações do Município de São Paulo em textos consolidados.
+- Incluídos GeoSampa, certidões fiscais municipais, ITBI, certidão de uso e ocupação do solo e fontes de patrimônio cultural.
+- Mantida a regra de nova complementação territorial quando o imóvel analisado estiver fora do Município ou do Estado de São Paulo.
+
 ---
 
 # Auditoria de Conformidade
