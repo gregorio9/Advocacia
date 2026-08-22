@@ -8,7 +8,7 @@ Sua finalidade é auxiliar o advogado na verificação da situação jurídica d
 
 ## Status de homologação
 
-O pacote está apto para homologação como ferramenta de apoio técnico. A revisão humana do advogado responsável permanece obrigatória antes de qualquer uso prático ou decisão jurídica.
+O pacote está homologado para uso assistido, permanecendo pendente de validação em caso concreto. A revisão humana do advogado responsável é obrigatória antes de qualquer uso prático ou decisão jurídica.
 
 ## 2. Tipos de documentos que ele pode apoiar
 
@@ -75,4 +75,4 @@ A análise da inteligência artificial não substitui a investigação documenta
 
 **Consistência técnica:** ✔ O documento contempla imóvel, partes, operação, documentação, riscos, diligências, mitigação e revisão profissional.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

@@ -316,4 +316,6 @@ Este documento deverá ser interpretado conjuntamente com os documentos **02_REG
 
 **Consistência técnica:** ✔ O documento contempla as principais fontes normativas utilizadas em Due Diligence Imobiliária, incluindo Direito Civil, Registral, Urbanístico, Ambiental, Tributário, Lei de Registros Públicos, Lei de Incorporações Imobiliárias, Estatuto da Cidade, normas do CNJ, Corregedorias, documentação registral, ambiental, fiscal e contratual, além da jurisprudência e doutrina especializadas.
 
-**Status:** **REFERÊNCIAS NACIONAIS E TERRITORIAIS DE SÃO PAULO VALIDADAS EM 22/08/2026.**
+**Status das referências:** **REFERÊNCIAS NACIONAIS E TERRITORIAIS DE SÃO PAULO VALIDADAS EM 22/08/2026.**
+
+**Status do pacote:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

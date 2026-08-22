@@ -163,3 +163,5 @@ Para cada caso foi criada uma entrada fictícia com informações suficientes pa
 ## Decisão de validação
 
 O especialista está **aprovado na validação funcional inicial**, pois demonstrou comportamento cauteloso, estrutura coerente, classificação de riscos e respeito às limitações. Permanece **pendente de validação jurídica e prática** antes da homologação definitiva.
+
+**Status do pacote após decisão do responsável:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

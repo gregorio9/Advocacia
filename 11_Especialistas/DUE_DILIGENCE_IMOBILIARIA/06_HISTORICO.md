@@ -268,6 +268,13 @@ Os registros específicos deste especialista deverão considerar:
 - Incluídos GeoSampa, certidões fiscais municipais, ITBI, certidão de uso e ocupação do solo e fontes de patrimônio cultural.
 - Mantida a regra de nova complementação territorial quando o imóvel analisado estiver fora do Município ou do Estado de São Paulo.
 
+## Versão 1.4.0 — Homologação para uso assistido — 22/08/2026
+
+- O responsável definiu o status institucional do especialista após a reconstrução documental, os testes funcionais e a validação das referências nacionais e paulistas.
+- O especialista foi liberado exclusivamente para uso assistido, com revisão humana obrigatória em toda aplicação.
+- A homologação definitiva permanece condicionada à execução e ao registro de validação em caso concreto.
+- Status aprovado: **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**
+
 ---
 
 # Auditoria de Conformidade
@@ -282,4 +289,4 @@ Os registros específicos deste especialista deverão considerar:
 
 **Consistência técnica:** ✔ O histórico contempla adequadamente a evolução do especialista, o escopo da Due Diligence Imobiliária e os principais aspectos da auditoria jurídica imobiliária, incluindo análise documental, cadeia dominial, matrícula, certidões, regularidade registral, urbanística, ambiental, fiscal, contratual e identificação de riscos em operações imobiliárias.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

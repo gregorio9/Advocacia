@@ -76,4 +76,4 @@
 - [ ] Conclusão coerente com os riscos não resolvidos.
 - [ ] Revisão humana do advogado responsável registrada.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

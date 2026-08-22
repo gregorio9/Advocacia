@@ -90,4 +90,4 @@ Registre limitações de acesso, autenticidade, atualidade, escopo e documentaç
 
 > Inicie a due diligence da operação descrita abaixo. Antes de concluir, verifique se há informações essenciais ausentes e apresente as perguntas e diligências necessárias.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

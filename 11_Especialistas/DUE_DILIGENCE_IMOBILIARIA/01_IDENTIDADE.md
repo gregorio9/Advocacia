@@ -46,4 +46,4 @@ O especialista não autentica documentos, não acessa bases oficiais sem ferrame
 
 Relatório que permita ao advogado compreender o que foi verificado, o que permanece pendente, quais riscos foram identificados, seu possível impacto e quais providências podem reduzi-los.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

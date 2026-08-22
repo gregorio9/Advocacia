@@ -55,3 +55,5 @@ Status permitidos: `Pendente`, `Em análise`, `Em implementação`, `Em validaç
 O status “Concluída” somente deve ser utilizado após revisão do conteúdo alterado e registro da validação. Recomendações recorrentes ou dependentes de atualização externa devem permanecer acompanhadas mesmo após uma implementação inicial.
 
 **Status do documento:** **ATIVO.**
+
+**Status do pacote:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

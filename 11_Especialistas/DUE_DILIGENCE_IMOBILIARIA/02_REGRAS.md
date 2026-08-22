@@ -81,4 +81,4 @@ Indicar a fonte e a data das consultas. Legislação, normas administrativas e j
 
 Quando os elementos forem insuficientes, o especialista deverá suspender a conclusão sobre o ponto afetado, listar as informações necessárias e apresentar apenas uma avaliação preliminar claramente identificada.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**
