@@ -1,21 +1,60 @@
-# 04_CHECKLISTS
+Adapte integralmente este arquivo 04_CHECKLISTS.md do Especialista em Direito Imobiliário para um Especialista em Direito Condominial.
 
-Checklist geral antes de finalizar um parecer
+Objetivo:
+Manter exatamente a mesma estrutura, organização, linguagem, nível técnico e padrão institucional da Biblioteca Jurídica Gregório, alterando apenas o conteúdo necessário para refletir a especialidade de Direito Condominial.
 
-- [ ] Identificação completa do cliente, condomínio, síndico, conselho fiscal, condôminos e demais partes envolvidas.
-- [ ] Fatos essenciais claramente descritos, incluindo natureza do condomínio, tipo de unidade, regime jurídico aplicável, contexto fático e documentos disponíveis.
-- [ ] Questões jurídicas listadas e priorizadas, com distinção entre matéria legal, contratual, regimental e jurisprudencial.
-- [ ] Fundamentos legais citados com artigos/incisos, observando a legislação vigente aplicável ao caso.
-- [ ] Convenção de Condomínio e Regimento Interno verificados e considerados, quando houver, incluindo análise de eventuais conflitos com a lei.
-- [ ] Atas de assembleia, contratos, escrituras, comunicações, petições, laudos, planilhas e demais documentos condominiais revisados quando relevantes para a matéria.
-- [ ] Jurisprudência e precedentes relevantes indicados, preferencialmente dos Tribunais de Justiça, STJ e STF, com observação das limitações territoriais e da força persuasiva/vinculante.
-- [ ] Doutrina e demais fontes técnicas consultadas quando úteis para a interpretação da matéria, com cautela quanto à atualização e ao contexto.
-- [ ] Riscos, alternativas e impactos práticos apresentados, incluindo possibilidade de assembleia, negociação, mediação, judicialização, revisão documental ou ajuste de procedimento interno.
-- [ ] Conclusão objetiva, técnica e compatível com a atuação profissional de advogado especializado em Direito Condominial.
+Regras obrigatórias:
 
-Checklist de conformidade formal
+- Não alterar a estrutura do documento.
+- Não criar novas seções.
+- Não remover seções existentes.
+- Preservar integralmente o padrão institucional da Biblioteca Jurídica Gregório.
+- Manter o mesmo nível de rigor técnico.
+- Adaptar apenas o conteúdo específico da especialidade.
 
-- [ ] Referências com data e fonte, indicando a origem normativa, documental, jurisprudencial ou doutrinária.
-- [ ] Formatação consistente (parágrafos, numeração, estrutura do parecer ou resposta).
-- [ ] Verificação de prazos processuais, prescrições, prazos administrativos, prazos para impugnações e eventuais condicionantes do caso.
-- [ ] Verificação de eventual necessidade de revisão humana, especialmente em matérias com alto risco, divergência jurisprudencial, lacunas normativas ou dependência de documentos adicionais.
+Na adaptação:
+
+- Substituir todas as referências ao Direito Imobiliário por Direito Condominial.
+- Adequar o checklist para contemplar, quando aplicável:
+  - identificação do condomínio, síndico, conselho fiscal, administradora e condôminos;
+  - verificação da Convenção de Condomínio;
+  - verificação do Regimento Interno;
+  - análise das Atas de Assembleias;
+  - deliberações assembleares;
+  - quóruns legais e convencionais;
+  - competência do síndico e da assembleia;
+  - cobrança de cotas condominiais;
+  - inadimplência;
+  - aplicação de multas;
+  - prestação de contas;
+  - balancetes e documentos financeiros;
+  - contratos de prestação de serviços;
+  - obras e reformas;
+  - utilização das áreas comuns;
+  - vagas de garagem;
+  - responsabilidade civil condominial;
+  - conflitos entre condôminos;
+  - direito de vizinhança.
+
+- Adequar os fundamentos jurídicos para contemplar, quando pertinente:
+  - Constituição Federal;
+  - Código Civil (arts. 1.331 a 1.358);
+  - Lei nº 4.591/1964;
+  - Convenção de Condomínio;
+  - Regimento Interno;
+  - deliberações assembleares;
+  - jurisprudência dos Tribunais de Justiça, STJ e STF;
+  - doutrina especializada.
+
+- Manter o checklist de conformidade formal, adaptando apenas os exemplos à realidade condominial.
+
+- Preservar todas as verificações relacionadas a:
+  - fundamentação jurídica;
+  - rastreabilidade das fontes;
+  - análise dos documentos;
+  - riscos;
+  - alternativas;
+  - impactos práticos;
+  - necessidade de revisão humana.
+
+Ao final, apresente apenas a versão final completa do arquivo 04_CHECKLISTS.md, pronta para homologação, sem explicar as alterações realizadas.

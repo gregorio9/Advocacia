@@ -41,4 +41,4 @@ Checklist geral antes de finalizar um parecer ou análise sobre usucapião
 
 **Consistência técnica:** ✔ Compatível com a legislação vigente, os procedimentos judiciais e extrajudiciais de usucapião e a prática registral.
 
-**Status:** **EM REVISÃO TÉCNICA E DOCUMENTAL.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

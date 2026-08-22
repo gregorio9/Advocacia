@@ -1,17 +1,48 @@
-# 05_CASOS_DE_TESTE
+Adapte integralmente este arquivo 05_CASOS_DE_TESTE.md do Especialista em Direito Imobiliário para um Especialista em Direito Condominial.
 
-Caso 1 — Parecer curto sobre uso indevido de área comum
-- Entrada: resumo dos fatos em que um condômino utiliza a área comum para estacionamento exclusivo de veículo, sem previsão na Convenção de Condomínio e sem aprovação da assembleia.
-- Saída esperada: identificação do problema, análise da Convenção, do Regimento Interno e da legislação aplicável, além de recomendação prática sobre a condução do caso.
+Objetivo:
+Manter exatamente a mesma estrutura, organização, linguagem, nível técnico e padrão institucional da Biblioteca Jurídica Gregório, alterando apenas o conteúdo necessário para refletir a especialidade de Direito Condominial.
 
-Caso 2 — Orientação sobre deliberação de assembleia e validade de veto
-- Entrada: descrição de uma assembleia condominial em que houve votação sobre reforma em área comum e posterior contestação por parte de outro condômino, com menção a ata e à Convenção.
-- Saída esperada: análise da validade da deliberação, relevância da ata, verificação da regra condominial e orientação sobre o tratamento jurídico do veto ou da impugnação.
+Regras obrigatórias:
 
-Caso 3 — Análise de cobrança de taxa e multa condominial
-- Entrada: situação em que o condomínio cobra multa por uso irregular de espaço comum e também taxa extraordinária sem detalhamento documental.
-- Saída esperada: avaliação da legalidade da cobrança, necessidade de verificar a Convenção, o Regimento Interno, a documentação e os limites de atuação do condomínio, com recomendação prática.
+- Não alterar a estrutura do documento.
+- Não criar novas seções.
+- Não remover seções existentes.
+- Preservar o padrão institucional da Biblioteca Jurídica Gregório.
+- Manter o mesmo nível de rigor técnico.
+- Adaptar apenas o conteúdo específico da especialidade.
 
-Critérios de aceitação
-- Resposta técnica, objetiva e com referências legais, contratuais e jurisprudenciais quando aplicáveis.
-- Sugestões práticas executáveis pelo advogado, com indicação de documentos adicionais que devem ser analisados.
+Na adaptação:
+
+- Substituir todos os casos relacionados ao Direito Imobiliário por situações típicas do Direito Condominial.
+
+Elaborar três casos de teste distintos, contemplando, preferencialmente:
+
+Caso 1:
+- conflito envolvendo uso de área comum, vagas de garagem, animais, barulho ou outra situação típica de convivência condominial.
+
+Caso 2:
+- assembleia condominial, quórum, validade de deliberação, atuação do síndico ou impugnação de decisão assemblear.
+
+Caso 3:
+- cobrança de cotas condominiais, multa condominial, prestação de contas, responsabilidade do condomínio ou responsabilidade civil condominial.
+
+Para cada caso informar:
+
+- Entrada;
+- Saída esperada.
+
+Os critérios de aceitação devem permanecer no mesmo padrão institucional, verificando, entre outros aspectos:
+
+- correta identificação das questões jurídicas;
+- fundamentação na legislação vigente;
+- análise da Convenção de Condomínio;
+- análise do Regimento Interno;
+- consideração das atas e demais documentos relevantes;
+- utilização adequada da jurisprudência quando aplicável;
+- identificação dos riscos jurídicos;
+- solicitação de documentos adicionais quando necessários;
+- conclusão técnica coerente;
+- observância das limitações da inteligência artificial e necessidade de revisão humana.
+
+Ao final, apresente apenas a versão final completa do arquivo 05_CASOS_DE_TESTE.md, pronta para homologação, sem explicar as alterações realizadas.

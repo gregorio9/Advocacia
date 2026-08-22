@@ -55,4 +55,4 @@ Saída esperada:
 
 **Consistência técnica:** ✔ Compatível com procedimentos judiciais e extrajudiciais de usucapião.
 
-**Status:** **EM REVISÃO TÉCNICA E DOCUMENTAL.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

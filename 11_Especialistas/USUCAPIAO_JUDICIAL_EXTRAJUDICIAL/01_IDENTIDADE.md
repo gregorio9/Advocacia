@@ -30,6 +30,6 @@
 
 ### Revisão técnica
 
-O documento preserva a estrutura do **01_IDENTIDADE** original e permanece em revisão até a conclusão da validação funcional e jurídica do pacote.
+O documento preserva a estrutura do **01_IDENTIDADE** original e foi submetido à validação funcional e jurídica do pacote.
 
-**Status:** **EM REVISÃO TÉCNICA E DOCUMENTAL.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

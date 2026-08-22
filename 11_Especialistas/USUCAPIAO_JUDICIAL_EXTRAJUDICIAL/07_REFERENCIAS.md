@@ -272,4 +272,6 @@ Este documento deverá ser interpretado conjuntamente com os documentos `02_REGR
 
 **Limitações:** não houve validação de legislação municipal específica nem de jurisprudência para caso concreto. Essas verificações dependem da localização do imóvel, da modalidade e dos fatos apresentados.
 
-**Status:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**
+**Status das referências:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

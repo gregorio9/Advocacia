@@ -272,4 +272,10 @@ Os registros específicos deste especialista deverão considerar:
 - Reforçada a obrigatoriedade de consulta ao texto compilado do Provimento CNJ nº 149/2023 e às alterações posteriores.
 - Mantida como obrigatória a complementação municipal, registral e jurisprudencial de cada caso concreto.
 
-**Status:** **EM REVISÃO TÉCNICA E DOCUMENTAL.**
+## Versão 1.6.0 — Homologação para uso assistido — 22/08/2026
+
+- Aprovado o status do especialista após saneamento estrutural, validação funcional e validação das referências jurídicas nacionais e do Estado de São Paulo.
+- Liberado o uso exclusivamente assistido, com revisão humana obrigatória antes de qualquer utilização prática ou decisão jurídica.
+- Mantida pendente a validação definitiva mediante aplicação e avaliação em caso concreto.
+
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

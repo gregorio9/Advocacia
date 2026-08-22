@@ -149,4 +149,4 @@ Este documento constitui o registro oficial das propostas de aperfeiçoamento da
 
 Sua existência não implica aprovação automática das melhorias registradas.
 
-As implementações dependerão de decisão do responsável técnico, observando as diretrizes de governança documental, qualidade técnica e evolução contínua da Biblioteca.
+As implementações dependerão de decisão do responsável técnico, observando as diretrizes de governança documental, qualidade técnica e evolução contínua da Biblioteca.s

@@ -149,4 +149,6 @@ As alterações dependem de aprovação do responsável técnico, observando-se 
 
 **Consistência técnica:** ✔ Compatível com a legislação vigente, os procedimentos judiciais e extrajudiciais de usucapião e a governança documental da Biblioteca Jurídica Gregório.
 
-**Status:** **ATIVO — MELHORIAS PENDENTES DE PRIORIZAÇÃO E VALIDAÇÃO.**
+**Status das melhorias:** **ATIVO — MELHORIAS PENDENTES DE PRIORIZAÇÃO E VALIDAÇÃO.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

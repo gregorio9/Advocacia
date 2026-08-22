@@ -4,7 +4,7 @@
 
 O presente documento tem por objetivo estabelecer os critérios institucionais para seleção, utilização, validação, registro e atualização das referências jurídicas utilizadas pelos especialistas da Biblioteca Jurídica Gregório.
 
-Sua finalidade é assegurar a qualidade técnica, a confiabilidade, a rastreabilidade, a padronização das pesquisas jurídicas e a fundamentação adequada das respostas produzidas no âmbito do Direito Condominial.
+Sua finalidade é assegurar a qualidade técnica, a confiabilidade, a rastreabilidade, a padronização das pesquisas jurídicas e a adequada fundamentação das respostas produzidas no âmbito do Direito Condominial.
 
 ---
 
@@ -60,12 +60,14 @@ Na pesquisa jurídica deverá ser observada, preferencialmente, a seguinte ordem
 
 No âmbito do Direito Condominial, deverão ser priorizadas, sempre que aplicáveis, as seguintes fontes específicas:
 
-1. Legislação vigente aplicável ao condomínio;
-2. Convenção de Condomínio;
-3. Regimento Interno;
-4. Atas de assembleia e demais documentos condominiais;
-5. Jurisprudência dos Tribunais de Justiça, STJ e STF;
-6. Doutrina especializada.
+1. Constituição Federal;
+2. Código Civil;
+3. Lei nº 4.591/1964, quando aplicável;
+4. Convenção de Condomínio;
+5. Regimento Interno;
+6. Atas de assembleia e demais documentos condominiais;
+7. Jurisprudência dos Tribunais de Justiça, STJ e STF;
+8. Doutrina especializada.
 
 Em caso de conflito entre fontes, deverá prevalecer a de maior hierarquia, observadas as regras do ordenamento jurídico e os limites da autonomia privada condominial.
 
@@ -81,7 +83,7 @@ Sempre que possível, o especialista deverá:
 - consultar versões consolidadas;
 - citar os dispositivos legais pertinentes;
 - evitar reproduções extensas desnecessárias;
-- verificar a compatibilidade entre a lei, a Convenção de Condomínio e o Regimento Interno.
+- verificar a compatibilidade entre a legislação, a Convenção de Condomínio e o Regimento Interno.
 
 ---
 
@@ -91,13 +93,13 @@ Na utilização de decisões judiciais deverão ser observados, sempre que poss�
 
 - priorizar precedentes do Supremo Tribunal Federal;
 - em seguida, do Superior Tribunal de Justiça;
-- utilizar decisões dos tribunais competentes para a matéria;
+- utilizar decisões dos Tribunais de Justiça competentes para a matéria;
 - indicar número do processo;
 - órgão julgador;
 - relator;
 - data do julgamento;
 - data da publicação;
-- identificar repercussão geral, recursos repetitivos, IRDR ou IAC quando aplicável;
+- identificar repercussão geral, recursos repetitivos, IRDR ou IAC, quando aplicável;
 - observar as limitações territoriais e a força persuasiva ou vinculante da decisão, especialmente em matéria condominial.
 
 ---
@@ -108,9 +110,9 @@ Na utilização de obras doutrinárias deverá ser observado:
 
 - preferência por autores reconhecidos;
 - utilização das edições mais recentes;
-- identificação da referência bibliográfica;
+- identificação completa da referência bibliográfica;
 - utilização complementar à legislação e à jurisprudência, sempre que possível;
-- especial atenção a obras voltadas ao Direito Condominial e à administração de condomínios.
+- especial atenção às obras voltadas ao Direito Condominial e à administração de condomínios.
 
 ---
 
@@ -123,14 +125,14 @@ Sempre que possível, deverão ser priorizadas fontes oficiais, entre elas:
 - Conselho Nacional de Justiça (CNJ);
 - Tribunais de Justiça;
 - Tribunais Regionais Federais;
-- Diário Oficial;
 - Portal da Legislação do Planalto;
+- Diário Oficial;
 - Senado Federal;
 - Câmara dos Deputados;
 - Conselho Nacional do Ministério Público (CNMP);
 - órgãos públicos competentes;
 - conselhos profissionais, quando aplicável;
-- registros e documentos emitidos pelo próprio condomínio, quando houver relevância jurídica comprovada.
+- registros e documentos emitidos pelo próprio condomínio, quando possuírem relevância jurídica.
 
 ---
 
@@ -158,7 +160,9 @@ Antes da utilização de qualquer referência jurídica, sempre que possível, d
 - revogações;
 - entendimento jurisprudencial atualizado;
 - existência de precedentes mais recentes;
-- atualização da Convenção de Condomínio, do Regimento Interno e de documentos administrativos relacionados.
+- atualização da Convenção de Condomínio;
+- atualização do Regimento Interno;
+- atualização das atas e demais documentos administrativos relacionados ao condomínio.
 
 ---
 
@@ -173,7 +177,7 @@ Sempre que possível, deverão ser registrados os seguintes elementos:
 - identificação da decisão judicial, quando aplicável;
 - link ou identificador oficial da fonte, quando disponível;
 - observações relevantes;
-- indicação se a referência se relaciona à lei, à Convenção, ao regimento, às atas ou a outro documento condominial.
+- indicação se a referência se relaciona à legislação, à Convenção de Condomínio, ao Regimento Interno, às atas de assembleia ou a outro documento condominial pertinente.
 
 O registro das referências tem por finalidade assegurar a rastreabilidade, a autenticidade, a reprodutibilidade das pesquisas jurídicas e subsidiar a realização de auditorias técnicas no âmbito da Biblioteca Jurídica Gregório.
 
@@ -187,4 +191,4 @@ As referências deverão privilegiar fontes oficiais, atualizadas e verificávei
 
 Os casos omissos serão resolvidos pelo responsável técnico da Biblioteca Jurídica Gregório, observadas as normas internas de governança documental.
 
-Este documento deverá ser interpretado conjuntamente com os documentos 02_REGRAS.md, 03_PROMPT.md, 04_CHECKLISTS.md e 06_HISTORICO.md.
+Este documento deverá ser interpretado conjuntamente com os documentos `02_REGRAS.md`, `03_PROMPT.md`, `04_CHECKLISTS.md` e `06_HISTORICO.md`.

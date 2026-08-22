@@ -187,16 +187,18 @@ Os casos omissos serão resolvidos pelo responsável técnico da Biblioteca Jur�
 
 ---
 
-## 12. Registro específico do especialista em Direito Condominial
+## 12. Registro específico do Especialista em Direito Condominial
 
-O presente especialista foi estruturado com base no template da Biblioteca Jurídica Gregório, com foco em Direito Condominial e em uma atuação técnica, fundamentada e compatível com a prática profissional de advogado.
+O presente especialista foi estruturado com base no Template Institucional da Biblioteca Jurídica Gregório, sendo adaptado para a área de Direito Condominial e destinado à atuação como ferramenta de apoio técnico ao advogado responsável.
 
 Os registros específicos deste especialista deverão considerar:
 
 - criação do pacote documental do especialista;
 - alinhamento entre identidade, regras, prompt, checklist e casos de teste;
-- adequação do escopo para temas condominiais, incluindo Convenção de Condomínio, Regimento Interno, assembleias, atas, documentos condominiais e jurisprudência;
-- preservação da metodologia, da governança documental e da rastreabilidade da Biblioteca.
+- adequação do escopo para matérias de Direito Condominial;
+- observância da legislação vigente, da Convenção de Condomínio, do Regimento Interno e da jurisprudência aplicável;
+- preservação da metodologia institucional da Biblioteca;
+- manutenção da governança documental, rastreabilidade e controle de versões.
 
 ---
 
@@ -205,20 +207,36 @@ Os registros específicos deste especialista deverão considerar:
 ## Versão 2.0.0
 
 - Criação da estrutura formal do Histórico da Biblioteca Jurídica Gregório.
-- Instituição das regras de governança do histórico.
+- Instituição das regras de governança documental.
 - Definição dos princípios de rastreabilidade e controle de versões.
-- Integração com o documento `08_MELHORIAS.md`.
+- Integração do Histórico com o documento `08_MELHORIAS.md`.
+
+---
 
 ## Versão 1.0.0 — Especialista em Direito Condominial
 
-- Criação do especialista em Direito Condominial com base no template da Biblioteca Jurídica Gregório.
-- Estruturação inicial dos documentos de identidade, regras, prompt, checklist, casos de teste e histórico.
-- Definição do escopo de atuação voltado à análise jurídica condominial, com foco em legislação vigente, Convenção de Condomínio, Regimento Interno, atas de assembleia e jurisprudência.
-- Registro inicial de alinhamento metodológico com os padrões de governança documental e rastreabilidade da Biblioteca.
+- Criação do Especialista em Direito Condominial com base no Template Institucional da Biblioteca Jurídica Gregório.
+- Estruturação inicial dos documentos de identidade, regras, prompt, checklist, casos de teste, histórico, referências e melhorias.
+- Definição do escopo de atuação voltado às matérias de Direito Condominial.
+- Adequação do especialista para análise técnica de convenções de condomínio, regimentos internos, assembleias, atas, documentos condominiais e jurisprudência.
+- Alinhamento metodológico com os padrões institucionais da Biblioteca Jurídica Gregório.
 
-## Versão 1.1.0 — Homologação e evolução
+---
 
-- Homologação preliminar do pacote documental do especialista, com revisão de coerência entre identidade, regras, prompt, checklist e casos de teste.
-- Ajuste do fluxo de atuação para refletir uma postura técnica, objetiva e compatível com a atuação profissional de advogado especializado em Direito Condominial.
-- Ampliação das verificações de revisão para incluir documentação condominial, deliberações assembleares, documentos normativos e precedentes jurisprudenciais relevantes.
-- Registro da evolução do especialista como instrumento de apoio à análise jurídica segura e rastreável.
+## Versão 1.1.0 — Revisão técnica
+
+- Revisão técnica dos documentos do especialista.
+- Ajuste de coerência entre identidade, regras, prompt, checklist e casos de teste.
+- Aperfeiçoamento da metodologia de atuação para refletir uma postura técnica, objetiva e compatível com a prática profissional do advogado especializado em Direito Condominial.
+- Ampliação das verificações para contemplar documentação condominial, deliberações assembleares, documentos normativos e precedentes jurisprudenciais relevantes.
+- Preparação do especialista para auditoria e futura homologação.
+
+---
+
+## Versão 1.2.0 — Homologação
+
+- Conclusão da revisão técnica do Especialista em Direito Condominial.
+- Verificação de conformidade do pacote documental com o Template Institucional da Biblioteca Jurídica Gregório.
+- Homologação do especialista para utilização como ferramenta de apoio técnico ao advogado, mantida a necessidade de revisão humana das respostas produzidas.
+- Liberação da versão oficial **1.2.0** do Especialista em Direito Condominial.
+- Encerramento do ciclo de desenvolvimento inicial do especialista e autorização para manutenção evolutiva por meio dos documentos `06_HISTORICO.md` e `08_MELHORIAS.md`.

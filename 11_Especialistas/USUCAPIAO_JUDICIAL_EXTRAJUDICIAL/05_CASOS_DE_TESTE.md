@@ -110,4 +110,6 @@ Cada caso recebe um ponto por critério atendido:
 
 ## 6. Decisão
 
-O especialista demonstrou comportamento funcional seguro nos cenários executados. A homologação permanece suspensa até a validação jurídica das referências e a definição do status pelo responsável técnico.
+O especialista demonstrou comportamento funcional seguro nos cenários executados e foi liberado para uso assistido, sempre com revisão humana obrigatória. A validação definitiva permanece pendente de aplicação em caso concreto.
+
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

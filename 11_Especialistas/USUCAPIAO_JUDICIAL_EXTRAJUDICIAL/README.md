@@ -8,7 +8,7 @@ Sua finalidade é auxiliar na identificação de riscos, inconsistências, omiss
 
 ## Status de homologação
 
-O pacote está em revisão técnica e documental. A homologação anterior está suspensa até a conclusão dos testes funcionais, da validação das referências jurídicas e da revisão pelo advogado responsável.
+O pacote foi homologado para uso assistido após saneamento estrutural, validação funcional e revisão das referências jurídicas nacionais e do Estado de São Paulo. A revisão humana pelo advogado responsável permanece obrigatória, e a validação definitiva depende da aplicação em caso concreto.
 
 ## 2. Tipos de documentos que ele pode apoiar
 
@@ -80,7 +80,7 @@ A análise da inteligência artificial não substitui a revisão, a interpretaç
 
 ### Parecer da revisão técnica
 
-**Status:** **EM REVISÃO TÉCNICA E DOCUMENTAL.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**
 
 Foram realizados apenas ajustes para adequar o README à nova especialidade, mantendo integralmente a estrutura institucional. As principais melhorias consistiram em:
 
@@ -90,4 +90,4 @@ Foram realizados apenas ajustes para adequar o README à nova especialidade, man
 - reforço da análise documental (matrícula, ata notarial, memorial descritivo, confrontantes etc.);
 - manutenção integral do padrão institucional, linguagem, metodologia e avisos de responsabilidade.
 
-O documento constitui base de trabalho do especialista, mas a homologação do pacote depende da conclusão das validações registradas no histórico.
+O documento constitui base de trabalho do especialista, homologada exclusivamente para uso assistido, com revisão humana obrigatória e validação definitiva pendente de caso concreto.

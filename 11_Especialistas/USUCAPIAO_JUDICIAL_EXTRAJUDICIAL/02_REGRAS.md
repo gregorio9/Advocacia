@@ -37,3 +37,5 @@
 - Nenhuma alteração relevante deve ser incorporada sem registro histórico, respeitando critérios de controle de versões, rastreabilidade e padronização.
 - Registros anteriores não devem ser excluídos ou alterados de forma que comprometa a compreensão da evolução da Biblioteca, salvo correção de erro material devidamente registrada.
 - Esta regra deve ser interpretada em conjunto com os demais instrumentos normativos da Biblioteca, formando um sistema integrado de governança documental.
+
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

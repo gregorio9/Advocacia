@@ -2,9 +2,9 @@
 
 ## 1. Objetivo
 
-O presente documento tem por objetivo registrar, organizar, acompanhar e controlar as propostas de aperfeiçoamento do especialista em Direito Condominial da Biblioteca Jurídica Gregório.
+O presente documento tem por objetivo registrar, organizar, acompanhar e controlar as propostas de aperfeiçoamento do Especialista em Direito Condominial da Biblioteca Jurídica Gregório.
 
-As melhorias registradas neste documento não implicam alteração automática do pacote, devendo passar por análise, aprovação e implementação controlada.
+As melhorias registradas neste documento não implicam alteração automática do pacote documental, devendo passar por análise, aprovação e implementação controlada.
 
 ---
 
@@ -22,17 +22,17 @@ Este documento possui as seguintes finalidades:
 
 ## 3. Princípios
 
-O gerenciamento das melhorias observará os seguintes princípios:
+O gerenciamento das melhorias observará os seguintes princípios.
 
 ### Rastreabilidade
 
 Toda melhoria deverá possuir identificação própria e registro claro.
 
-### Precisão jurídica
+### Precisão Jurídica
 
 As propostas devem contribuir para maior segurança, rigor técnico e qualidade das respostas.
 
-### Clareza operacional
+### Clareza Operacional
 
 As melhorias devem facilitar o uso do especialista em tarefas práticas, como pareceres, checklists e revisão documental.
 
@@ -40,9 +40,9 @@ As melhorias devem facilitar o uso do especialista em tarefas práticas, como pa
 
 Nenhuma melhoria será implementada sem aprovação prévia e registro adequado.
 
-### Evolução contínua
+### Evolução Contínua
 
-O especialista deverá ser ajustado periodicamente com base em uso real, revisão humana e atualização normativa.
+O especialista deverá ser aperfeiçoado periodicamente com base na experiência prática, revisão humana e atualização legislativa e jurisprudencial.
 
 ---
 
@@ -64,19 +64,17 @@ Sempre que possível, cada melhoria deverá conter:
 
 ## 5. Classificação da Prioridade
 
-As melhorias poderão ser classificadas como:
-
 ### Alta
 
-Impactam diretamente a segurança jurídica, a rastreabilidade ou a utilidade operacional do especialista.
+Impacta diretamente a segurança jurídica, a confiabilidade técnica ou a governança documental.
 
 ### Média
 
-Representam aperfeiçoamentos importantes, mas não comprometem o uso do pacote.
+Representa aperfeiçoamento relevante, sem comprometer o uso do especialista.
 
 ### Baixa
 
-Correspondem a ajustes de organização, padronização, clareza ou documentação.
+Corresponde a ajustes de padronização, organização, documentação ou clareza.
 
 ---
 
@@ -96,18 +94,15 @@ Cada melhoria deverá possuir um dos seguintes status:
 
 | ID | Documento | Descrição | Prioridade | Status |
 |----|-----------|-----------|------------|--------|
-| M-001 | README.md | Incluir versão, responsável e status de publicação do especialista | Baixa | Pendente |
-| M-002 | 01_IDENTIDADE.md | Completar dados de identidade, escopo e limitações do especialista | Alta | Pendente |
-| M-003 | 02_REGRAS.md | Reforçar a regra de prevalência da lei sobre convenção, regimento e jurisprudência | Alta | Pendente |
-| M-004 | 02_REGRAS.md | Ampliar a orientação sobre análise de documentos condominiais relevantes | Média | Pendente |
-| M-005 | 03_PROMPT.md | Estruturar melhor a distinção entre fatos, premissas, limitações e conclusão | Média | Pendente |
-| M-006 | 03_PROMPT.md | Padronizar respostas em formato de parecer curto, detalhado e checklist | Média | Pendente |
-| M-007 | 04_CHECKLISTS.md | Separar itens obrigatórios e recomendáveis para revisão | Média | Pendente |
-| M-008 | 05_CASOS_DE_TESTE.md | Incluir casos sobre assembleias, veto, multa, uso de áreas comuns e prestação de contas | Alta | Pendente |
-| M-009 | 05_CASOS_DE_TESTE.md | Definir critérios claros de aprovação e reprovação dos testes | Alta | Pendente |
-| M-010 | 06_HISTORICO.md | Registrar de forma mais detalhada as alterações aprovadas e suas datas | Baixa | Pendente |
-| M-011 | 07_REFERENCIAS.md | Inserir referências mais específicas a legislação, convenção e jurisprudência condominial | Média | Pendente |
-| M-012 | 07_REFERENCIAS.md | Estabelecer rotina de atualização periódica das fontes | Baixa | Pendente |
+| M-001 | README.md | Inserir versão oficial do especialista no momento da homologação | Baixa | Pendente |
+| M-002 | 01_IDENTIDADE.md | Revisar periodicamente o escopo de atuação conforme evolução legislativa e jurisprudencial | Média | Pendente |
+| M-003 | 02_REGRAS.md | Atualizar regras sempre que houver alteração legislativa relevante em matéria condominial | Alta | Pendente |
+| M-004 | 03_PROMPT.md | Criar versões especializadas para parecer, revisão contratual, consulta rápida e pesquisa jurisprudencial | Média | Pendente |
+| M-005 | 04_CHECKLISTS.md | Desenvolver checklists específicos para assembleias, cobrança de cotas, obras, responsabilidade civil e administração condominial | Média | Pendente |
+| M-006 | 05_CASOS_DE_TESTE.md | Ampliar os casos de teste com situações mais complexas e novos cenários práticos | Média | Pendente |
+| M-007 | 07_REFERENCIAS.md | Revisar periodicamente as fontes oficiais e atualizar referências normativas e jurisprudenciais | Média | Pendente |
+| M-008 | Especialista | Criar indicadores para avaliação periódica da qualidade das respostas produzidas pelo especialista | Baixa | Pendente |
+| M-009 | Especialista | Incorporar melhorias decorrentes das futuras auditorias da Biblioteca Jurídica Gregório | Alta | Pendente |
 
 ---
 
@@ -115,7 +110,7 @@ Cada melhoria deverá possuir um dos seguintes status:
 
 As melhorias aprovadas deverão ser implementadas de forma controlada.
 
-Após a implementação, deverão ser registradas no documento 06_HISTORICO.md, indicando:
+Após sua implementação, deverão ser registradas no documento **06_HISTORICO.md**, indicando:
 
 - versão do especialista;
 - documentos alterados;
@@ -127,8 +122,8 @@ Após a implementação, deverão ser registradas no documento 06_HISTORICO.md, 
 
 ## 9. Regra Final
 
-Este documento constitui o registro oficial das propostas de aperfeiçoamento do especialista em Direito Condominial.
+Este documento constitui o registro oficial das propostas de aperfeiçoamento do Especialista em Direito Condominial.
 
 Sua existência não autoriza a implementação automática das melhorias registradas.
 
-As alterações dependem de aprovação do responsável técnico, observando-se os critérios de governança documental, qualidade técnica e adequação ao escopo jurídico do especialista.
+Toda alteração dependerá de aprovação do responsável técnico da Biblioteca Jurídica Gregório, observando-se os princípios de governança documental, rastreabilidade, qualidade técnica e adequação ao escopo jurídico do especialista.

@@ -24,3 +24,5 @@ Checklist de conformidade formal
 - [ ] Formatação consistente (parágrafos, numeração, estrutura da resposta ou parecer).
 - [ ] Verificação de prazos processuais, prescrições, prazos administrativos, prazos para impugnações e eventuais condicionantes do caso.
 - [ ] Revisão humana obrigatória indicada quando houver alto risco, divergência jurisprudencial, lacunas normativas ou dependência de documentos adicionais.
+
+
