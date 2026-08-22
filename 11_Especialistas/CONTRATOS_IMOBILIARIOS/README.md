@@ -8,7 +8,7 @@ Sua finalidade é auxiliar na identificação de riscos contratuais, inconsistê
 
 ## Status de homologação
 
-O pacote está em fase inicial de estruturação e deve ser revisado humanamente antes de uso operacional, com a ressalva de que a análise jurídica final e a responsabilidade técnica permanecem sob a tutela do advogado responsável.
+O pacote está homologado para uso assistido após validação funcional e revisão das referências jurídicas nacionais e do Estado de São Paulo. A revisão humana do advogado responsável permanece obrigatória antes de qualquer utilização prática, e a validação definitiva depende da aplicação em caso concreto.
 
 ## 2. Tipos de materiais que ele pode apoiar
 
@@ -35,7 +35,7 @@ O especialista pode apoiar, entre outros:
 - cláusulas contratuais isoladas;
 - escrituras e instrumentos relacionados à operação imobiliária, quando pertinente.
 
-Na fase inicial, destacam-se materiais relacionados a:
+No escopo atual, destacam-se materiais relacionados a:
 
 - contratos imobiliários;
 - locação residencial, comercial e rural;
@@ -87,4 +87,4 @@ A inteligência artificial não substitui a análise jurídica do advogado. Toda
 - Padronização com a Biblioteca Jurídica Gregório: manutenção do padrão institucional, técnico e formal do repositório.
 - Ausência de termos remanescentes de outras especialidades: eliminação de referências incompatíveis com contratos imobiliários e atuação jurídica contratual.
 - Consistência técnica: adequação do documento à temática de contratos, locação, compra e venda, garantias, prazos, obrigações, rescisão, cláusulas e análise de riscos.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- Status: HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.
