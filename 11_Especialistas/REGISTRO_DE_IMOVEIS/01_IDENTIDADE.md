@@ -104,4 +104,4 @@ Dr. José Luiz Gregório
 
 **Consistência técnica:** ✔ As áreas de atuação, escopo, qualificações e normas aplicáveis refletem adequadamente a atuação de um especialista em Direito Registral Imobiliário.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

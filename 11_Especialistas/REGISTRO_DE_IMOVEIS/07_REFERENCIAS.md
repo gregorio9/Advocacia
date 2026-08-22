@@ -280,3 +280,5 @@ Este documento deverá ser interpretado conjuntamente com os documentos **02_REG
 **Limitações:** legislação municipal, título, matrícula, certidões, nota devolutiva, emolumentos e jurisprudência específica devem ser conferidos em cada caso concreto.
 
 **Status:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

@@ -54,4 +54,4 @@ Saída esperada:
 
 **Consistência técnica:** ✔ O documento contempla os principais institutos do Direito Registral Imobiliário, incluindo qualificação registral, matrícula, registro, averbação, princípios registrais, cadeia dominial, retificação, suscitação de dúvida, REURB, georreferenciamento e demais atos registrais.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

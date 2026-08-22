@@ -46,4 +46,4 @@ Regra final de governança documental
 
 **Consistência técnica:** ✔ O documento contempla matrícula, títulos, prenotação, qualificação registral, princípios registrais, cadeia dominial, retificação, suscitação de dúvida, direitos reais, regularização e normas administrativas aplicáveis.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

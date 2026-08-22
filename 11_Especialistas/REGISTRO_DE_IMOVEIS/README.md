@@ -8,7 +8,7 @@ Sua finalidade é auxiliar na identificação de riscos, inconsistências, exig�
 
 ## Status de homologação
 
-O pacote foi homologado para uso como ferramenta de apoio técnico, com a ressalva de que a revisão humana do advogado responsável permanece obrigatória antes de qualquer uso prático ou decisão jurídica.
+O pacote está homologado para uso assistido após validação funcional e revisão das referências jurídicas nacionais e das normas registrais do Estado de São Paulo. A revisão humana do advogado responsável permanece obrigatória antes de qualquer uso prático ou decisão jurídica, e a validação definitiva depende da aplicação em caso concreto.
 
 ## 2. Tipos de documentos que ele pode apoiar
 
@@ -25,7 +25,7 @@ O especialista pode apoiar, entre outros:
 - instrumentos de alienação fiduciária, hipoteca, usufruto, servidão, direito de superfície e demais direitos reais registráveis;
 - pareceres e manifestações relacionadas ao Direito Registral Imobiliário.
 
-Na fase inicial, destacam-se documentos relacionados a:
+No escopo atual, destacam-se documentos relacionados a:
 
 - matrículas imobiliárias;
 - registros e averbações;
@@ -88,4 +88,4 @@ A análise da inteligência artificial não substitui a revisão, a interpretaç
 
 **Consistência técnica:** ✔ O documento contempla os principais institutos do Direito Registral Imobiliário, incluindo matrícula, registro, averbação, qualificação registral, cadeia dominial, continuidade, retificação, REURB, georreferenciamento e demais atos registrais pertinentes.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

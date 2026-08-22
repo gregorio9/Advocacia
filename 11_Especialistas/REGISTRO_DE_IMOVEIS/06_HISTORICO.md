@@ -247,6 +247,13 @@ Os registros específicos deste especialista deverão considerar:
 - Mantida obrigatória a complementação documental, municipal, registral e jurisprudencial de cada caso concreto.
 - Homologação final reservada à decisão do responsável técnico.
 
+## Versão 2.3.0 — Homologação para uso assistido — 22/08/2026
+
+- Aprovado o status do especialista após validação funcional e validação das referências jurídicas nacionais e das normas registrais do Estado de São Paulo.
+- Liberado o uso exclusivamente assistido, com revisão humana obrigatória antes de qualquer utilização prática ou decisão jurídica.
+- Preservada a competência do oficial de Registro de Imóveis para a qualificação do título e a prática do ato registral.
+- Mantida pendente a validação definitiva mediante aplicação e avaliação em caso concreto.
+
 ---
 
 # Auditoria de Conformidade
@@ -261,4 +268,4 @@ Os registros específicos deste especialista deverão considerar:
 
 **Consistência técnica:** ✔ O histórico contempla adequadamente a evolução do especialista, o escopo registral e os principais institutos do Direito Registral Imobiliário.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO COM RESSALVAS E REVISÃO HUMANA OBRIGATÓRIA.**
+**Status:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

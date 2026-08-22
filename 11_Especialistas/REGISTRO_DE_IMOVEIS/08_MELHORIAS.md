@@ -147,4 +147,6 @@ As alterações dependem de aprovação do responsável técnico, observando-se 
 
 **Consistência técnica:** ✔ As melhorias propostas refletem adequadamente a atuação do especialista em Registro de Imóveis, contemplando qualificação registral, matrícula, títulos, princípios registrais, normas das Corregedorias, Lei de Registros Públicos e atualização contínua.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status das melhorias:** **ATIVO — MELHORIAS PENDENTES DE PRIORIZAÇÃO E VALIDAÇÃO.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

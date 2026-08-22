@@ -73,4 +73,6 @@ Cada cenário foi avaliado quanto a: identificação do ato pretendido, competê
 - **Falhas impeditivas:** nenhuma.
 - **Ressalvas:** a decisão de qualificação compete ao oficial; exigências, emolumentos, documentos e procedimentos locais devem ser conferidos na data da apresentação; jurisprudência e decisões administrativas dependem do caso concreto.
 
-**Status funcional:** **APROVADO EM TESTE FUNCIONAL COM RESSALVAS. HOMOLOGAÇÃO PENDENTE DE DECISÃO DO RESPONSÁVEL TÉCNICO.**
+**Status funcional:** **APROVADO EM TESTE FUNCIONAL COM RESSALVAS.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**
