@@ -12,3 +12,9 @@ Registrar melhorias iniciais para o aprimoramento do especialista.
 - ampliação das regras de revisão;
 - inclusão de mais casos de teste;
 - atualização das referências técnicas.
+
+## 3. Status
+
+As melhorias permanecem ativas e sujeitas à priorização do responsável técnico.
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**
