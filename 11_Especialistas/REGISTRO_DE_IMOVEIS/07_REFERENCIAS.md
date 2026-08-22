@@ -190,6 +190,36 @@ O especialista deverá, sempre que aplicável, considerar as seguintes categoria
 
 ## 10. Atualização das Referências
 
+### 9.1 Catálogo normativo nacional validado em 22/08/2026
+
+- [Lei nº 6.015/1973 — Lei de Registros Públicos](https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm), em texto compilado, como referência central para títulos, matrícula, registro, averbação, prenotação, prioridade, retificação e dúvida;
+- [Lei nº 10.406/2002 — Código Civil](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), especialmente para direitos reais, aquisição e transmissão da propriedade, forma dos negócios e eficácia do registro;
+- [Lei nº 14.382/2022](https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2022/lei/l14382.htm), relativa ao Sistema Eletrônico dos Registros Públicos — SERP e à modernização dos registros públicos;
+- [Lei nº 13.465/2017](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2017/lei/l13465.htm), quando houver REURB, legitimação fundiária, direito de laje e registro eletrônico de imóveis;
+- [Lei nº 6.766/1979](https://www.planalto.gov.br/ccivil_03/leis/l6766compilado.htm), para parcelamento do solo urbano;
+- [Lei nº 4.591/1964](https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm), para incorporações imobiliárias e condomínio edilício;
+- [Lei nº 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm), para alienação fiduciária de imóvel e Sistema de Financiamento Imobiliário;
+- [Lei nº 14.711/2023 — Marco Legal das Garantias](https://www.planalto.gov.br/ccivil_03/_ato2023-2026/2023/lei/l14711.htm), quando pertinente às garantias e aos procedimentos registrais alterados;
+- [Provimento CNJ nº 149/2023 — Código Nacional de Normas do Foro Extrajudicial](https://atos.cnj.jus.br/atos/detalhar/5243), obrigatoriamente em versão compilada e com conferência de alterações posteriores.
+
+### 9.2 Complementação territorial — Estado de São Paulo
+
+- [Normas de Serviço da Corregedoria-Geral da Justiça de São Paulo — Tomo II](https://www.tjsp.jus.br/Corregedoria/Comunicados/NormasExtrajudiciais), especialmente o Capítulo XX, referente ao Registro de Imóveis; versão indicada pelo TJSP como atualizada em 17/07/2026 na data desta revisão;
+- [Portal do Extrajudicial do TJSP](https://extrajudicial.tjsp.jus.br/), para provimentos, comunicados, decisões administrativas, procedimentos de dúvida e orientações registrais vigentes;
+- legislação estadual e municipal aplicável à localização e à natureza do imóvel, inclusive parcelamento, uso do solo, patrimônio público, tributos, meio ambiente e regularização fundiária.
+
+### 9.3 Regras obrigatórias de aplicação
+
+- obter matrícula ou transcrição atual e a íntegra do título e da nota devolutiva antes de concluir sobre registrabilidade;
+- distinguir título causal, forma do instrumento, qualificação registral, prática do ato e eficácia perante terceiros;
+- conferir competência territorial, prioridade, continuidade, disponibilidade, especialidade objetiva e subjetiva, legalidade, concentração e demais princípios pertinentes;
+- não substituir a qualificação do oficial nem assegurar previamente que o título será registrado;
+- verificar a versão vigente das normas do CNJ e da Corregedoria na data da apresentação;
+- diferenciar exigência legal ou normativa de prática local e indicar os meios cabíveis de reapresentação, dúvida ou recurso sem garantir resultado;
+- pesquisar jurisprudência e decisões administrativas oficiais quando a questão depender de interpretação controvertida.
+
+## 10. Atualização das Referências
+
 Antes da utilização de qualquer referência jurídica, sempre que possível, deverá ser verificado:
 
 - vigência da legislação;
@@ -243,4 +273,10 @@ Este documento deverá ser interpretado conjuntamente com os documentos **02_REG
 
 **Consistência técnica:** ✔ O documento contempla a Lei de Registros Públicos, Código Nacional de Normas da Corregedoria Nacional de Justiça, normas das Corregedorias-Gerais da Justiça, princípios registrais, jurisprudência especializada e documentação registral pertinente.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Data da validação:** 22/08/2026.
+
+**Escopo:** fontes oficiais nacionais e normas extrajudiciais do Estado de São Paulo.
+
+**Limitações:** legislação municipal, título, matrícula, certidões, nota devolutiva, emolumentos e jurisprudência específica devem ser conferidos em cada caso concreto.
+
+**Status:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**

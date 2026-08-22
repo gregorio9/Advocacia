@@ -232,6 +232,21 @@ Os registros específicos deste especialista deverão considerar:
 - Foram apontadas recomendações de aperfeiçoamento, todas tratadas no contexto da homologação.
 - O especialista passou a constar como homologado para uso como apoio técnico, com revisão humana do advogado responsável sempre exigida.
 
+## Versão 2.1.0 — Validação funcional — 22/08/2026
+
+- Executados os três casos previstos em `05_CASOS_DE_TESTE.md` e quatro testes transversais de segurança.
+- Avaliados registro de compra e venda, averbação, retificação, REURB, continuidade, disponibilidade, possível imóvel público, nota devolutiva e título eletrônico.
+- Resultado: sete cenários aprovados, com ressalvas e sem falha impeditiva.
+- Mantida a competência do oficial para a qualificação registral e a revisão humana obrigatória.
+
+## Versão 2.2.0 — Validação das referências nacionais e paulistas — 22/08/2026
+
+- Validado `07_REFERENCIAS.md` em fontes oficiais do Planalto, CNJ e TJSP.
+- Incluídos Lei de Registros Públicos compilada, Código Civil, SERP, REURB, parcelamento do solo, incorporações, alienação fiduciária e Marco Legal das Garantias.
+- Registrado o Provimento CNJ nº 149/2023 em versão compilada e as Normas de Serviço da CGJ/SP, Tomo II, indicadas pelo TJSP como atualizadas em 17/07/2026.
+- Mantida obrigatória a complementação documental, municipal, registral e jurisprudencial de cada caso concreto.
+- Homologação final reservada à decisão do responsável técnico.
+
 ---
 
 # Auditoria de Conformidade
@@ -246,4 +261,4 @@ Os registros específicos deste especialista deverão considerar:
 
 **Consistência técnica:** ✔ O histórico contempla adequadamente a evolução do especialista, o escopo registral e os principais institutos do Direito Registral Imobiliário.
 
-**Status:** **APTO PARA HOMOLOGAÇÃO.**
+**Status:** **APTO PARA HOMOLOGAÇÃO COM RESSALVAS E REVISÃO HUMANA OBRIGATÓRIA.**
