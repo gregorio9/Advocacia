@@ -92,4 +92,6 @@ Foi introduzido cenário de locação rural. O pacote reconhece que a Lei nº 8.
 - **Falhas impeditivas:** nenhuma.
 - **Ressalvas:** conferir legislação municipal, matrícula e certidões atuais; pesquisar jurisprudência quando a conclusão depender de controvérsia; validar individualmente contratos de consumo, incorporação, loteamento, alienação fiduciária e imóveis rurais.
 
-**Status funcional:** **APROVADO EM TESTE FUNCIONAL COM RESSALVAS. HOMOLOGAÇÃO PENDENTE DE DECISÃO DO RESPONSÁVEL TÉCNICO.**
+**Status funcional:** **APROVADO EM TESTE FUNCIONAL COM RESSALVAS.**
+
+**Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

@@ -247,6 +247,13 @@ Os registros específicos deste especialista deverão considerar:
 - Mantida obrigatória a complementação municipal, documental, registral e jurisprudencial de cada caso concreto.
 - Homologação final reservada à decisão do responsável técnico.
 
+## Versão 2.3.0 — Homologação para uso assistido — 22/08/2026
+
+- Aprovado o status do especialista após validação funcional e validação das referências jurídicas nacionais e do Estado de São Paulo.
+- Liberado o uso exclusivamente assistido, com revisão humana obrigatória antes de qualquer utilização prática ou decisão jurídica.
+- Mantidas as ressalvas específicas para locação rural, relações de consumo, incorporação, loteamento, alienação fiduciária e legislação municipal.
+- Mantida pendente a validação definitiva mediante aplicação e avaliação em caso concreto.
+
 ---
 
 # Auditoria de Conformidade
@@ -255,4 +262,4 @@ Os registros específicos deste especialista deverão considerar:
 - Adequação temática: conteúdo integralmente orientado ao Especialista em Contratos Imobiliários e às demandas de elaboração, revisão, análise e auditoria contratual.
 - Padronização institucional: preservação do padrão técnico, formal e jurídico do repositório.
 - Coerência técnica: alinhamento do documento às necessidades de registro histórico, rastreabilidade, controle de versões, decisões arquiteturais, melhorias futuras e auditorias.
-- Status: APTO PARA HOMOLOGAÇÃO COM RESSALVAS E REVISÃO HUMANA OBRIGATÓRIA.
+- Status: HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.

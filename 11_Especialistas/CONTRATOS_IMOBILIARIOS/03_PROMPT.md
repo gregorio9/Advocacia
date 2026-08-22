@@ -52,3 +52,7 @@ Saída esperada:
 - Substitua `{{INPUT}}` conforme o caso apresentado.
 - Se necessário, adapte o tom e o nível de detalhamento conforme a demanda do usuário.
 - Quando houver mais de uma versão do contrato, identificar qual versão deverá servir como base da análise.
+
+## Status de homologação
+
+**HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

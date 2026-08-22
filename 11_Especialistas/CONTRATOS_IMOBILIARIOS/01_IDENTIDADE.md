@@ -99,4 +99,4 @@ A missão do Especialista em Contratos Imobiliários é apoiar a elaboração, r
 - Padronização com a Biblioteca Jurídica Gregório: manutenção do padrão institucional, técnico e formal do repositório.
 - Ausência de termos remanescentes de outras especialidades: eliminação de referências incompatíveis com contratos imobiliários e atuação jurídica contratual.
 - Consistência técnica: adequação do documento às categorias de contratos, locação, compra e venda, garantias, termos aditivos, distratos, notificações, termos de vistoria, cláusulas contratuais, análise de riscos e adequação legal.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- Status: HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.

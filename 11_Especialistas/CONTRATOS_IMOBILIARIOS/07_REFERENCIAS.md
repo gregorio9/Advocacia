@@ -268,3 +268,5 @@ Este documento deverá ser interpretado conjuntamente com os documentos 02_REGRA
 - **Escopo:** fontes oficiais nacionais e normas extrajudiciais do Estado de São Paulo.
 - **Limitações:** legislação municipal, matrícula, certidões, documentos e jurisprudência específica devem ser conferidos em cada caso concreto.
 - **Status:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**
+
+- **Status do especialista:** **HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.**

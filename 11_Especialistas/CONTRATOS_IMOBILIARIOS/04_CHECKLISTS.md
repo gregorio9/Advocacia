@@ -47,4 +47,4 @@ Checklist de conformidade formal
 - Padronização com a Biblioteca Jurídica Gregório: manutenção do padrão institucional, técnico e formal do repositório.
 - Ausência de termos remanescentes de outras especialidades: eliminação de referências incompatíveis com contratos imobiliários e atuação jurídica contratual.
 - Consistência técnica: adequação do documento às categorias de contratos, locação, compra e venda, garantias, cláusulas, obrigações, prazos, rescisão, multas, encargos, termos aditivos, notificações e análise de riscos.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- Status: HOMOLOGADO PARA USO ASSISTIDO, PENDENTE DE VALIDAÇÃO EM CASO CONCRETO.
