@@ -187,6 +187,37 @@ O especialista deverá, sempre que aplicável, considerar as seguintes categoria
 
 ## 10. Atualização das Referências
 
+### 9.1 Catálogo normativo nacional validado em 22/08/2026
+
+- [Lei nº 10.406/2002 — Código Civil](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm), especialmente negócio jurídico, obrigações, contratos, compra e venda, troca, corretagem, fiança, locação de coisas, direitos reais, escritura pública e registro;
+- [Lei nº 8.245/1991 — Lei do Inquilinato](https://www.planalto.gov.br/ccivil_03/leis/l8245compilado.htm), exclusivamente para locações de imóveis urbanos por ela abrangidas;
+- [Lei nº 8.078/1990 — Código de Defesa do Consumidor](https://www.planalto.gov.br/ccivil_03/leis/l8078compilado.htm), quando caracterizada relação de consumo;
+- [Lei nº 6.015/1973 — Lei de Registros Públicos](https://www.planalto.gov.br/ccivil_03/leis/l6015compilada.htm), para qualificação, registro, averbação, títulos e eficácia perante terceiros;
+- [Lei nº 9.514/1997](https://www.planalto.gov.br/ccivil_03/leis/l9514.htm), quando houver financiamento imobiliário ou alienação fiduciária de imóvel;
+- [Lei nº 6.766/1979](https://www.planalto.gov.br/ccivil_03/leis/l6766compilado.htm), para parcelamento do solo urbano e contratos relativos a lotes;
+- [Lei nº 4.591/1964](https://www.planalto.gov.br/ccivil_03/leis/l4591compilado.htm), para condomínio edilício e incorporações imobiliárias;
+- [Lei nº 13.786/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13786.htm), para resolução e distrato em incorporação imobiliária e parcelamento do solo;
+- [Lei nº 4.504/1964 — Estatuto da Terra](https://www.planalto.gov.br/ccivil_03/leis/l4504compilada.htm) e [Decreto nº 59.566/1966](https://www.planalto.gov.br/ccivil_03/decreto/antigos/d59566.htm), para arrendamento e parceria rural;
+- [Provimento CNJ nº 149/2023 — Código Nacional de Normas do Foro Extrajudicial](https://atos.cnj.jus.br/atos/detalhar/5243), sempre em versão compilada e com conferência das alterações posteriores.
+
+### 9.2 Complementação territorial — Estado de São Paulo
+
+- [Normas de Serviço da Corregedoria-Geral da Justiça de São Paulo — Tomo II](https://www.tjsp.jus.br/Corregedoria/Comunicados/NormasExtrajudiciais), especialmente capítulos relativos a tabelionato de notas, registro de títulos e documentos e registro de imóveis; versão indicada pelo TJSP como atualizada em 17/07/2026 na data desta revisão;
+- [Portal do Extrajudicial do TJSP](https://extrajudicial.tjsp.jus.br/), para provimentos, comunicados e decisões administrativas vigentes;
+- legislação do município onde se situa o imóvel, especialmente uso e ocupação do solo, parcelamento, licenciamento, patrimônio, tributos e restrições urbanísticas ou ambientais.
+
+### 9.3 Regras obrigatórias de aplicação
+
+- confirmar a natureza urbana ou rural e o regime jurídico antes de analisar locação, arrendamento ou parceria;
+- não presumir propriedade, disponibilidade ou inexistência de ônus sem matrícula e certidões atuais;
+- distinguir validade entre as partes, forma legal, registro e eficácia perante terceiros;
+- avaliar a incidência do CDC a partir das partes e da operação concreta, sem aplicação automática;
+- verificar se a operação envolve incorporação, loteamento ou alienação fiduciária antes de analisar distrato e retenções;
+- pesquisar jurisprudência oficial atualizada quando a conclusão depender de interpretação controvertida;
+- registrar data de corte, órgão, número e link oficial das fontes efetivamente utilizadas.
+
+## 10. Atualização das Referências
+
 Antes da utilização de qualquer referência jurídica, sempre que possível, deverá ser verificado:
 
 - vigência da legislação;
@@ -233,4 +264,7 @@ Este documento deverá ser interpretado conjuntamente com os documentos 02_REGRA
 - Adequação temática: conteúdo integralmente orientado ao Especialista em Contratos Imobiliários e às demandas de elaboração, revisão, análise e auditoria contratual.
 - Padronização institucional: preservação do padrão técnico, formal e jurídico do repositório.
 - Coerência técnica: alinhamento do documento às necessidades de referência jurídica, análise documental, jurisprudência, legislação e rastreabilidade.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- **Data da validação:** 22/08/2026.
+- **Escopo:** fontes oficiais nacionais e normas extrajudiciais do Estado de São Paulo.
+- **Limitações:** legislação municipal, matrícula, certidões, documentos e jurisprudência específica devem ser conferidos em cada caso concreto.
+- **Status:** **REFERÊNCIAS NACIONAIS E REGISTRAIS DE SÃO PAULO VALIDADAS; COMPLEMENTAÇÃO DO CASO CONCRETO OBRIGATÓRIA.**

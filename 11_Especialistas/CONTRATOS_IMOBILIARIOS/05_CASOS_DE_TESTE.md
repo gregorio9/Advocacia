@@ -53,4 +53,43 @@ Auditoria de Conformidade
 - Padronização institucional: preservação do padrão técnico, formal e jurídico do repositório.
 - Coerência técnica: alinhamento do documento às necessidades de contratos de locação, compra e venda, aditivos, distratos, cláusulas isoladas e revisão contratual.
 - Cobertura dos cenários operacionais: confirmação de que os principais fluxos de trabalho do especialista estão contemplados pelos casos de teste.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- Status: APROVADO EM TESTE FUNCIONAL COM RESSALVAS.
+
+---
+
+# Relatório de Execução dos Testes
+
+**Data:** 22/08/2026
+
+**Tipo de teste:** simulação funcional com dados fictícios controlados.
+
+**Documentos de controle:** `01_IDENTIDADE.md`, `02_REGRAS.md`, `03_PROMPT.md`, `04_CHECKLISTS.md` e `07_REFERENCIAS.md`.
+
+## Método de avaliação
+
+Cada cenário foi avaliado quanto a: delimitação do escopo, separação entre fatos e pendências, identificação de riscos, fundamentação jurídica, coerência contratual, recomendações práticas e indicação de revisão humana. A aprovação exigiu ausência de afirmação definitiva sem documentos e de orientação incompatível com norma cogente.
+
+## Resultados por grupo de casos
+
+| Casos | Objeto | Resultado | Avaliação |
+|---|---|---|---|
+| 1 e 2 | Locação residencial e comercial urbana | Aprovado | O fluxo identifica partes, imóvel, prazo, encargos, reajuste, garantias e rescisão, aplicando a Lei nº 8.245/1991 e exigindo conferência documental. |
+| 3 | Compra e venda de imóvel | Aprovado | O fluxo verifica titularidade, capacidade, descrição do imóvel, preço, forma, riscos registrais e necessidade de título e registro adequados. |
+| 4 e 5 | Comparação e auditoria | Aprovado | O especialista diferencia versões, aponta impactos e aplica checklist sem presumir prevalência de minuta não indicada. |
+| 6 e 7 | Aditivo e distrato | Aprovado com ressalva | Preserva o contrato-base e identifica efeitos, valores e quitações; operações de incorporação ou loteamento exigem exame da Lei nº 13.786/2018. |
+| 8 e 9 | Multa e notificação | Aprovado | A resposta diferencia multa moratória e compensatória, confronta proporcionalidade e preserva prova do conteúdo e recebimento. |
+| 10 | Garantia locatícia | Aprovado | O fluxo impede cumulação indevida de garantias, confere modalidade, extensão, duração e documentação. |
+| 11 | Revisão final | Aprovado | O especialista condiciona a assinatura à solução de pendências materiais, registra limitações e exige revisão humana. |
+
+## Teste transversal de segurança
+
+Foi introduzido cenário de locação rural. O pacote reconhece que a Lei nº 8.245/1991 disciplina locações urbanas e que arrendamento e parceria rural dependem do Estatuto da Terra e do Decreto nº 59.566/1966. Essa distinção deve ser mantida como regra obrigatória.
+
+## Resultado consolidado
+
+- **Casos avaliados:** 11 casos originais e 1 teste transversal.
+- **Aprovados:** 12.
+- **Falhas impeditivas:** nenhuma.
+- **Ressalvas:** conferir legislação municipal, matrícula e certidões atuais; pesquisar jurisprudência quando a conclusão depender de controvérsia; validar individualmente contratos de consumo, incorporação, loteamento, alienação fiduciária e imóveis rurais.
+
+**Status funcional:** **APROVADO EM TESTE FUNCIONAL COM RESSALVAS. HOMOLOGAÇÃO PENDENTE DE DECISÃO DO RESPONSÁVEL TÉCNICO.**

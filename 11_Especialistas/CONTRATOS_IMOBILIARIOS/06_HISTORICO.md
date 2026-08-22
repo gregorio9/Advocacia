@@ -232,6 +232,21 @@ Os registros específicos deste especialista deverão considerar:
 - Foram apontadas recomendações de aperfeiçoamento, todas tratadas no contexto da homologação.
 - O especialista passou a constar como estruturado para uso como apoio técnico, com revisão humana do advogado responsável sempre exigida.
 
+## Versão 2.1.0 — Validação funcional — 22/08/2026
+
+- Executados e avaliados os 11 casos previstos em `05_CASOS_DE_TESTE.md`, acrescidos de teste transversal sobre locação rural.
+- Aprovados os fluxos de elaboração, revisão, comparação, auditoria, aditivo, distrato, multa, notificação, garantia e revisão final.
+- Registrada a distinção obrigatória entre locação urbana e contratos agrários.
+- Resultado: aprovado em teste funcional com ressalvas, sem falha impeditiva.
+
+## Versão 2.2.0 — Validação das referências nacionais e paulistas — 22/08/2026
+
+- Validado `07_REFERENCIAS.md` em fontes oficiais do Planalto, CNJ e TJSP.
+- Incluídos Código Civil, Lei do Inquilinato, CDC, Lei de Registros Públicos, alienação fiduciária, parcelamento do solo, incorporações, distratos e contratos agrários.
+- Registradas as Normas de Serviço da Corregedoria-Geral da Justiça de São Paulo, Tomo II, indicadas pelo TJSP como atualizadas em 17/07/2026.
+- Mantida obrigatória a complementação municipal, documental, registral e jurisprudencial de cada caso concreto.
+- Homologação final reservada à decisão do responsável técnico.
+
 ---
 
 # Auditoria de Conformidade
@@ -240,4 +255,4 @@ Os registros específicos deste especialista deverão considerar:
 - Adequação temática: conteúdo integralmente orientado ao Especialista em Contratos Imobiliários e às demandas de elaboração, revisão, análise e auditoria contratual.
 - Padronização institucional: preservação do padrão técnico, formal e jurídico do repositório.
 - Coerência técnica: alinhamento do documento às necessidades de registro histórico, rastreabilidade, controle de versões, decisões arquiteturais, melhorias futuras e auditorias.
-- Status: APTO PARA HOMOLOGAÇÃO.
+- Status: APTO PARA HOMOLOGAÇÃO COM RESSALVAS E REVISÃO HUMANA OBRIGATÓRIA.
